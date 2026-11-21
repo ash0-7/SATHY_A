@@ -68,10 +68,10 @@ I'm documenting my learning journey, building projects, and improving one step a
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/sathya-m-454166366">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="sathyablack07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
